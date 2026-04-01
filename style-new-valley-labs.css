@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Modak&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+h1{
+     font-family: "fredoka", system-ui;
+     font-size: 100px;
+     font-weight: 400;
+     color: #D95130;
+}
+h2{
+     font-family: "fredoka", system-ui;
+     font-size: 70px;
+     font-weight: 300;
+     color: #D95130;
+}
+p{
+    font-family: "work sans", system-ui;
+    color: blue;
+    font-size: 50px;
+    font-weight: 100;
+}
+.txt-center{
+    text-align: center;
+}
+.btn{
+    text-decoration: none;
+    background-color: #51b6b2;
+    border-radius: 15px;
+     color: #D95130;
+     padding: 10px 20px;
+     display: inline-block;
+}
