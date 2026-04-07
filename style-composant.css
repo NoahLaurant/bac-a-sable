@@ -41,7 +41,47 @@
 .border-dash{
     border: dashed 2px black;
 }
+.card{
+    width: 30%;
+    padding: 8px;
+    border-radius: 16px;
+    box-shadow: 2px 2px 15px rgb(176, 176, 176);
+}
+.w-100
+{
+    width: 100%;
+}
+.mt-16{
+    margin-top: 16px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.space-around{
+    justify-content: space-around;
+}
 
+/*
+.taille-image{
+  height: 50%;
+  width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    
+}
+.border-solide-div{
+    border: solid 3px gray;
+    margin-top: 5px;
+    width: 800px;
+    padding: 10px;
+}
+.taille-div{
+    width: 30%;
+    height: 500px;
+    padding-bottom: 10px;
+}
+*/
 /*.btn{
     background-color: #e56a6a;
     padding: 20px 40px;
