@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0x;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn{
+    font-family: "Inter", sans-serif;
+    display: inline-block;
+    padding: 16px 32px;
+    text-decoration: none;
+}
+
+.bold{
+    font-weight: 700;
+}
+.black{
+    color: black;
+}
+.white{
+    color: white;
+}
+.fond-vert{
+    background-color: #61FF7B;
+}
+.fond-bleu{
+    background-color: #1398A0;
+}
+.gellule{
+    border-radius: 400px;
+}
+.radius-8{
+    border-radius: 8px;
+}
+.radius-0-32{
+    border-radius: 0px 32px;
+}
+.border-solide{
+    border: solid black 1px;
+}
+.border-dash{
+    border: dashed 2px black;
+}
+
+/*.btn{
+    background-color: #e56a6a;
+    padding: 20px 40px;
+    border: solid 3px black;
+    font-family: sans-serif;
+}
+.bouton{
+    background-color: #e56a6a;
+    padding: 20px 40px;
+    border: solid 2px black;
+    font-family: sans-serif;
+}
+.arrondie{
+    background-color:  #61FF7B;
+    border-radius: 40px;
+    padding: 10px 20px;
+    font-family: sans-serif;
+}
+.bizarre{
+    background-color:  #61FF7B;
+    border-radius: 0px 40px;
+    padding: 10px 20px;
+    font-family: sans-serif;
+}
+.premier-visiter{
+    background-color: #1398A0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+}
+.btn-cercles{
+      background-color: #1398A0;
+    border-radius: 60px;
+    padding: 10px 20px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    display: inline-block;
+    color: black;
+}
+*/
+
+
+
